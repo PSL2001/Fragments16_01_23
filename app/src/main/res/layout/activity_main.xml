@@ -8,14 +8,12 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fcvBlu"
-        android:name="com.example.fragments16_01_23.fragments.BlueFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1" />
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fcvRed"
-        android:name="com.example.fragments16_01_23.fragments.RedFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
         android:layout_weight="1" />
